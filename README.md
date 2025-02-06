@@ -10,8 +10,9 @@ The repository currently includes the following projects:
 - **ml_examples**: Examples and experiments related to machine learning.
 - **starship_enterprise_tools_calling**: A project exploring tool integration for the Starship Enterprise.
 - **starship_enterprise_RAG**: Research and development related to the Starship Enterprise.
+- **rag-document-location**: Extracts the information about the location in the document.
 
-Each project is contained within its own directory and may include its own `README.md` file with more detailed information.
+Each project is contained within its directory and may include its own `README.md` file with more detailed information.
 
 ## Technologies
 
